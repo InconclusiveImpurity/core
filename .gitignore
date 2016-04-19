@@ -1,3 +1,5 @@
+assets/fonts/*
+less/lib/font-awesome/*
 /vendor
 composer.phar
 .DS_Store
@@ -5,3 +7,4 @@ Thumbs.db
 tests/_output/*
 .vagrant
 .idea/*
+nbproject/*
